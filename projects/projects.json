@@ -1,0 +1,82 @@
+[
+  {
+    "name": "Git Portfolio",
+    "desc": "A personal portfolio website built with React and Tailwind CSS to showcase projects, skills, and certifications.",
+    "image": "gitportfolio",
+    "category": "mern",
+    "links": {
+      "code": "https://github.com/Reddybangaram123/gitportfolio"
+    }
+  },
+  {
+    "name": "Weather APP",
+    "desc": "A simple React-based weather app that fetches and displays real-time weather data using an external API.",
+    "image": "weatherapp",
+    "category": "mern",
+    "links": {
+      "view": "https://weather-app-seven-cyan-57.vercel.app/",
+      "code": "https://github.com/Reddybangaram123/weather-app"
+    }
+  },
+  {
+    "name": "E-Commerce",
+    "desc": "A responsive React-based E-Commerce website featuring product listings, search functionality, and a clean modern UI.",
+    "image": "E-Commerce",
+    "category": "mern",
+    "links": {
+      "view": "https://e-commerce-omega-rose.vercel.app/",
+      "code": "https://github.com/Reddybangaram123/E-Commerce"
+    }
+  },
+  {
+    "name": "aipersonaltrainer",
+    "desc": "The AI Personal Trainer is a Python-based application that uses computer vision and machine learning to monitor and guide a user’s physical exercises. It helps users perform workouts with proper form by tracking their movements in real time and providing feedback—just like a human trainer.",
+    "image": "aipersonaltrainer",
+    "category": "Python",
+    "links": {
+      "view": "https://github.com/Reddybangaram123/Ai-Personal-Trainer",
+      "code": "https://github.com/Reddybangaram123/Ai-Personal-Trainer"
+    }
+  },
+  {
+    "name": "Whatsapp Timer",
+    "desc": "A Python-based tool that schedules and sends WhatsApp messages automatically at a specified time.",
+    "image": "timer",
+    "category": "Python",
+    "links": {
+      "view": "https://what-app-timer.vercel.app/",
+      "code": "https://github.com/Reddybangaram123/What-app-timer"
+    }
+  },
+  
+  {
+    "name": "Portfolio Website",
+    "desc": "A personal website built using HTML, CSS, and JavaScript to showcase projects, skills, and achievements in an interactive and responsive design.",
+    "image": "portfolio",
+    "category": "basicweb",
+    "links": {
+      "view": "https://reddybangaram123.github.io/portfolio/",
+      "code": "https://github.com/Reddybangaram123/Portfolio-Website--gopal"
+    }
+  },
+  {
+    "name": "College Website",
+    "desc": "A user-friendly HTML, CSS, and JavaScript-based website for A.M. Reddy Engineering College, providing quick access to timetables, academic calendars, manuals, and study materials.",
+    "image": "college",
+    "category": "basicweb",
+    "links": {
+      "view": "https://reddybangaram123.github.io/GOPAL/",
+      "code": "https://github.com/Reddybangaram123/GOPAL"
+    }
+  },
+  {
+    "name": "Feedback Forms",
+    "desc": "A simple and responsive web portal built with HTML, CSS, and JavaScript to provide academic resources like timetables, calendars, manuals, and materials for students.",
+    "image": "feedback_forms",
+    "category": "basicweb",
+    "links": {
+      "view": "https://reddybangaram123.github.io/REDDY/",
+      "code": "https://github.com/Reddybangaram123/REDDY"
+    }
+  }
+]
