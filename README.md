@@ -49,7 +49,7 @@ portfolio-website/
 
 ## Live Demo 🔗
 
-[View Portfolio] (https://github.com/Reddybangaram123/Portfolio-new)
+[View Portfolio] (https://portfolio-new-ruddy-ten.vercel.app/)
 
 ---
 
