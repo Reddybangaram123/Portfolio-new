@@ -32,7 +32,7 @@ portfolio-website/
 
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/yourusername/portfolio-website.git](https://github.com/Reddybangaram123/Portfolio-new)
+   git clone https://github.com/Reddybangaram123/Portfolio-new.git
    ```
 
 2. Open in your favorite browser:
@@ -49,7 +49,7 @@ portfolio-website/
 
 ## Live Demo 🔗
 
-[View Portfolio]([https://yourportfolio.com](https://github.com/Reddybangaram123/Portfolio-new))
+[View Portfolio] (https://github.com/Reddybangaram123/Portfolio-new)
 
 ---
 
